@@ -1,0 +1,9 @@
+{
+  "name": "kirakustore",
+  "version": "0.1.0",
+  "description": "Connects Claude Code to your KirakuStore library: ranked prompts, snippets and links.",
+  "author": { "name": "KuroTech Lab" },
+  "homepage": "https://kirakustore.com",
+  "repository": "https://github.com/ArcVielLouvent/kiraku-store-plugin",
+  "keywords": ["mcp", "prompts", "snippets", "context"]
+}

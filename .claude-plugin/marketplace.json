@@ -1,0 +1,15 @@
+{
+  "name": "kiraku-store",
+  "owner": { "name": "KuroTech Lab" },
+  "metadata": { "description": "Plugins that connect AI coding tools to your KirakuStore library." },
+  "plugins": [
+    {
+      "name": "kirakustore",
+      "source": "./plugins/kirakustore",
+      "description": "Read your best-ranked prompts, snippets and links from KirakuStore and mark them as useful.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": ["mcp", "prompts", "snippets", "bookmarks", "context"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "kirakustore": {
+      "type": "http",
+      "url": "https://kirakustore.com/mcp",
+      "headers": { "Authorization": "Bearer ${KIRAKU_TOKEN}" }
+    }
+  }
+}
